@@ -1,4 +1,4 @@
-# Python à l'école
+# Python à l'école :
 
 Python est apprécié par les pédagogues qui y trouvent un langage où la syntaxe, clairement séparée des mécanismes de bas niveau, permet une initiation aisée aux concepts de base de la programmation.
 
@@ -27,6 +27,19 @@ Auparavant, l'enseignement d'informatique était limité à une option en MP, l'
 Cette option existe toujours, mais **Pascal** a été abandonné à partir de la session 2015 des concours et **Caml** a, lui, été remplacé par **OCaml** dans cet enseignement.
 
 Les premières épreuves de concours portant sur le langage **Python** sont également celles de la session 2015.
+
+# Utilisation :
+
+Python est un langage de programmation qui peut s'utiliser dans de nombreux contextes grâce à des bibliothèques spécialisées.
+
+Il est utilisé comme langage de script pour automatiser des tâches comme la récupération de la météo sur Internet ou l'enchaînement d'actions en conception assistée par ordinateur (voir la section Adoption).
+
+On l'utilise également comme langage de développement de prototype lorsqu'on a besoin d'une application fonctionnelle avant de l'optimiser avec un langage compilé.
+
+Il est particulièrement répandu dans le monde scientifique et possède des bibliothèques optimisées pour le calcul numérique.
+
+C'est l'un des langages utilisés dans le domaine du big data, de l'informatique quantique et de l'intelligence artificielle, incluant l'apprentissage automatique.
+
 
 ## Source
 
